@@ -1,3 +1,9 @@
 #Important{
     width: 85%;
 }
+
+@media screen and (max-width: 767px) {
+    #Important{
+        width: 50%;
+    }
+}
